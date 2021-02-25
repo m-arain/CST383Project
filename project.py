@@ -2,6 +2,7 @@
 """
 @author: Robert Meis
 @team members: Jason Contreras, Mohammad Arain
+CST-383 Project: Spam vs. Ham Classifier 
 References: https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html
 https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
 https://pandas.pydata.org/ (multiple pages)
