@@ -1,11 +1,11 @@
-# CST383Project
-Spam v# Spam/Ham Machine Learning Classifier
+# CST 383 Final Project
+#### Spam/Ham Machine Learning Classifier
 #### Jason Contreras, Mohammad Arain, Robert Meis
-####CST 383 Data Science
+#### CST 383 Data Science
 #### Spring 2021
-####Professor Ergezer 
+#### Professor Ergezer 
 
-###Video Presentation: https://www.youtube.com/watch?v=9QYtnXWecbg
+### Video Presentation: https://www.youtube.com/watch?v=9QYtnXWecbg
 
 @Team Members: Robert Meis, Jason Contreras, Mohammad Arain
 
@@ -19,7 +19,7 @@ Original source of the dataset: https://www.kaggle.com/venky73/spam-mails-datase
 Data consists of a publicly available dataset containing a total of 5171(~5000) Enron emails.<br/>
 Before data munging, original data consists of four columns: number, label, text, label_num
 
-####Data Fields
+#### Data Fields
 1. Unamed:0 (Number) - Unique id of Message
 2. Label - Type of message (Spam or Ham)
 3. Text - Actual Message
@@ -28,8 +28,8 @@ Before data munging, original data consists of four columns: number, label, text
 ![Dataset](https://github.com/m-arain/CST383Project/raw/main/Dataset.png 'Dataset')
 
 
-###Machine Learning
-####Feature Engineering 
+### Machine Learning
+#### Feature Engineering 
 The 'email number' column is dropped to avoid bias and 'label' column is dropped because it is not necessary as the machine learning algorithmn will use numeric values.
 
 Each email subject began with "Subject: ". This was stripped from each email subject using Python string processing as it was both irrelevant and potentially biasing.
@@ -64,7 +64,7 @@ The results do imply that the three linear ML classifiers tested (Decision Tree,
 Based on the simulation results Decision Tree, Naive-Bayes and Random Forest have all proven to be capable machine learning algorithmns to base a spam/ham classifier off. In this case Random Forest was the most capable with 97% accuracy with minimal tuning. kNN Neighborsclassifier proved to be inefficient for our large dataset as the TFDIF Vectorizer produced too many columns for kNN to handle. The goal of building a spam/ham classifier with high accuracy was achieved.
 
 
-###References/Bibliography
+### References/Bibliography
 
 References/Bibliography:
 https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html
