@@ -66,16 +66,16 @@ Based on the simulation results Decision Tree, Naive-Bayes and Random Forest hav
 
 ### References/Bibliography
 
-References/Bibliography:
-https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html
-https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
-https://pandas.pydata.org/ (multiple pages)
-https://scikit-learn.org/ (multiple pages)
-https://seaborn.pydata.org/ (multiple pages)
-https://matplotlib.org/ (multiple pages)
-https://www.kite.com/python/answers/how-to-plot-a-bar-chart-using-a-dictionary-in-matplotlib-in-python
-https://python-graph-gallery.com/3-control-color-of-barplots/
-https://www.sciencedirect.com/science/article/pii/S2405844018353404
+References/Bibliography: <br/>
+https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html <br/>
+https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html <br/>
+https://pandas.pydata.org/ (multiple pages) <br/>
+https://scikit-learn.org/ (multiple pages) <br/>
+https://seaborn.pydata.org/ (multiple pages) <br/>
+https://matplotlib.org/ (multiple pages) <br/>
+https://www.kite.com/python/answers/how-to-plot-a-bar-chart-using-a-dictionary-in-matplotlib-in-python <br/>
+https://python-graph-gallery.com/3-control-color-of-barplots/ <br/>
+https://www.sciencedirect.com/science/article/pii/S2405844018353404 <br/>
 
 Spam/Ham Dataset is obtained here: https://www.kaggle.com/venky73/spam-mails-dataset
 
