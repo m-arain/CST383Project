@@ -65,8 +65,6 @@ Based on the simulation results Decision Tree, Naive-Bayes and Random Forest hav
 
 
 ### References/Bibliography
-
-References/Bibliography: <br/>
 https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html <br/>
 https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html <br/>
 https://pandas.pydata.org/ (multiple pages) <br/>
